@@ -6,9 +6,10 @@
 🚀 [Launch Live ChatBot](https://fabiomughilan-chatbot-chat-agentschat-ui-cdgxwc.streamlit.app/)
 
 **HealthMind AI** is a smart and compassionate AI chatbot that provides personalized support in the domains of **mental health** and **dietary advice**. Powered by a multi-agent architecture using `CrewAI`, it leverages large language models (LLMs) via `Together.ai`, along with semantic search using `ChromaDB`.
-Tech Stack - Python, Flask
----
 
+---
+**Tech Stack - Python, Flask**
+____
 ## 📖 Features
 
 - 🔍 **Topic Classification** — Routes user queries to either the *Mental Health* or *Diet* agent using a supervisor agent.
